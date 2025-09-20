@@ -15,7 +15,7 @@ The first week focused on establishing a robust development environment by insta
 | ---- | -------------------------------------------------------------------------- | ------ |
 | 0    | Icarus Verilog (Simulation), Yosys (Synthesis), GTKWave (Waveform Viewing) | ✅      |
 |      |
-|       
+     
 **📝 Installation Guide:**
 For a detailed, step-by-step tutorial on installing and configuring these tools, please see the dedicated README in the **[Week 0](https://github.com/jyothirganesh-0475/Jyothirganesh_K_RISC-V-SoC-VSD_Week_0/tree/main/Tool_Check_snapshots#readme)** folder.
 
